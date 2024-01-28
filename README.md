@@ -7,8 +7,6 @@ It has various features implemented like newsletter subscription, social media p
 
 ![2024-01-28 (16)](https://github.com/Nexuscrafter/Sneaker-Complex/assets/144047787/a8ea47be-a9f8-4aaf-b5a7-0a64af25f564)
 
-![2024-01-28 (16)](https://github.com/Nexuscrafter/Sneaker-Complex/assets/144047787/364456ff-922f-4ce4-8456-bdebc8df645f)
-
 ![2024-01-28 (18)](https://github.com/Nexuscrafter/Sneaker-Complex/assets/144047787/f34e7fa0-98cb-4369-9cca-82f72960aa40)
 
 ![2024-01-28 (21)](https://github.com/Nexuscrafter/Sneaker-Complex/assets/144047787/034615fc-ff04-44a7-9f49-81f11cbaf8cb)
